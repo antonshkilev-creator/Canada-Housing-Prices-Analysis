@@ -1,5 +1,3 @@
-
-
 # Canada Housing Prices Analysis
 
 This project performs analysis of key factors 
